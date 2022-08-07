@@ -5,7 +5,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
 <p> Sempre tive interesse em aprender Python, porém a oportunidade surgiu agora e pode ser ao vivo junto com a comunidade utilizando a apostila da CAELUM como guia.
 <p> Vídeos do canal: </p>
 <ul>
-  <li><a>Vídeo chamada</a></li>
+  <li><a href="https://youtu.be/fn5udwQoaE0">Vídeo chamada</a></li>
   <li><a>Vídeo 01</a></li>
   <li><a>Vídeo 02</a></li>
 </ul>
