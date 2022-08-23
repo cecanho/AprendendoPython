@@ -6,8 +6,9 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
 <p> Vídeos do canal: </p>
 <ul>
   <li><a href="https://youtu.be/fn5udwQoaE0">Vídeo chamada</a></li>
-  <li><a>Vídeo 01</a></li>
+  <li><a href="https://youtu.be/kwNFKRD3WrU">Vídeo 01</a></li>
   <li><a>Vídeo 02</a></li>
+  <li><a>Vídeo 03</a></li>
 </ul>
 
 <h2> Sobre </h2>
