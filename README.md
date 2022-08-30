@@ -6,9 +6,10 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
 <p> Vídeos do canal: </p>
 <ul>
   <li><a href="https://youtu.be/fn5udwQoaE0">Vídeo chamada</a></li>
-  <li><a href="https://youtu.be/kwNFKRD3WrU">Vídeo 01</a></li>
-  <li><a>Vídeo 02</a></li>
-  <li><a>Vídeo 03</a></li>
+  <li><a href="https://youtu.be/kwNFKRD3WrU">Vídeo 01</a>: Instalação da linguagem e teste do Olá Mundo</li>
+  <li><a href="https://youtu.be/E7xUuH44kaQ">Vídeo 02</a>: Instalação da IDE PyCharm e teste do Olá Mundo</li>
+  <li><a href="https://youtu.be/nZ5n0yugm5Y">Vídeo 03</a>: Tipos embutidos, variáveis e palavras reservadas</li>
+  <li><a href="https://youtu.be/K7SpqHDi-6w">Vídeo 04</a>: Operadores matemáticos</li>
 </ul>
 
 <h2> Sobre </h2>
