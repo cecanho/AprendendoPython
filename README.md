@@ -10,6 +10,8 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/E7xUuH44kaQ">Vídeo 02</a>: Instalação da IDE PyCharm e teste do Olá Mundo</li>
   <li><a href="https://youtu.be/nZ5n0yugm5Y">Vídeo 03</a>: Tipos embutidos, variáveis e palavras reservadas</li>
   <li><a href="https://youtu.be/K7SpqHDi-6w">Vídeo 04</a>: Operadores matemáticos</li>
+  <li><a href="https://youtu.be/YbA6eDoduvY">Vídeo 05</a>: Entrada do Usuário</li>
+  <li><a href="https://youtu.be/1o0F9e4Ox1Y">Vídeo 06</a>: Constantes Embutidas</li>
 </ul>
 
 <h2> Sobre </h2>
