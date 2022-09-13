@@ -43,12 +43,12 @@ print(bool(0))
 x = [1, 2, 3]
 y = [1, 2, 3]
 
-print('x == y')
+print('Comparação de igualdade x == y')
 print(x == y)
-print('x is y')
+print('Comparação se são iguais x is y')
 print(x is y)
-print('x in y')
+print('Comparação se um conjunto está em outro x in y')
 print(x in y)
-print('1 in x')
+print('Comparação se um número pertence a conjunto 1 in x')
 print(1 in x)
 
