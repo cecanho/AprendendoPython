@@ -13,6 +13,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/YbA6eDoduvY">Vídeo 05</a>: Entrada do Usuário</li>
   <li><a href="https://youtu.be/1o0F9e4Ox1Y">Vídeo 06</a>: Constantes Embutidas</li>
   <li><a href="https://youtu.be/aLyxeqTIO60">Vídeo 07</a>: Controle de Fluxo (IF, ELSE e ELIF)</li>
+  <li><a href="https://youtu.be/cnFUu3LV8CU">Vídeo 08</a>: Resolução do exercício do triângulo</li>
 </ul>
 
 <h2> Sobre </h2>
