@@ -17,6 +17,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/GriV-f_AYso">Vídeo 09</a>: Estrutura de Repetição Enquanto</li>
   <li><a href="https://youtu.be/GXD4HQnxD7w">Vídeo 010</a>: Estrutura de Repetição Para</li>
   <li><a href="https://youtu.be/uCMRwFtzWBg">Vídeo 011</a>: Resolvendo a falta do Do While</li>
+  <li><a href="https://youtu.be/uCMRwFtzWBg">Vídeo 011</a>: Listas em Python</li>
 </ul>
 
 <h2> Sobre </h2>
