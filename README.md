@@ -20,6 +20,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/cXe7tMZ7PwU">Vídeo 012</a>: Listas em Python</li>
   <li><a href="https://youtu.be/yN3LczxdmcM">Vídeo 013</a>: Resolução do exercício Lista com funções</li>
   <li><a href="https://youtu.be/cmDBRhzbgVo">Vídeo 014</a>: Sequências em Python (list, tuple, range)</li>
+  <li><a href="https://youtu.be/r0we1ndadTQ">Vídeo 015</a>: Conjuntos</li>
 </ul>
 
 <h2> Sobre </h2>
