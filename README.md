@@ -23,6 +23,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/r0we1ndadTQ">Vídeo 015</a>: Conjuntos</li>
   <li><a href="https://youtu.be/7NaXHDwLiGU">Vídeo 016</a>: Dicionários</li>
   <li><a href="https://youtu.be/Z4vpmjijqmA">Vídeo 017</a>: Exercício sobre Lista</li>
+  <li><a href="https://youtu.be/7VMZvyINmf4">Vídeo 018</a>: Funções</li>
 </ul>
 
 <h2> Sobre </h2>
