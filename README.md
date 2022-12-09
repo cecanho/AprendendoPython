@@ -25,6 +25,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/Z4vpmjijqmA">Vídeo 017</a>: Exercício sobre Lista</li>
   <li><a href="https://youtu.be/7VMZvyINmf4">Vídeo 018</a>: Funções</li>
   <li><a href="https://youtu.be/RkXvGGj3QTQ">Vídeo 019</a>: Valor default/None em argumento de funções </li>
+  <li><a href="https://youtu.be/EoKMONQKS6M">Vídeo 020</a>: Retorno de valor em funções </li>
 </ul>
 
 <h2> Sobre </h2>
