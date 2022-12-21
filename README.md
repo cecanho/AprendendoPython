@@ -29,6 +29,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/wPM3y3ECzMA">Vídeo 021</a>: Resolução de exercícios sobre funções </li>
   <li><a href="https://youtu.be/nQD3Tzi0ZH4">Vídeo 022</a>: Respondendo comentários </li>
   <li><a href="https://youtu.be/IfIDm9v40ms">Vídeo 023</a>: Argumentos de função com *args e *kwargs </li>
+  <li><a href="https://youtu.be/gf4w5IL0zfU">Vídeo 024</a>: Resolução de exercícos com *args e *kwargs </li>
 </ul>
 
 <h2> Sobre </h2>
