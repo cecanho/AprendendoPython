@@ -35,6 +35,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/XQwjdW7xX4k">Vídeo 027</a>: Arquivos </li>
   <li><a href="https://youtu.be/OVvu80QoGuM">Vídeo 028</a>: Arquivos - exercícios </li>
   <li><a href="https://youtu.be/D9-Teee1Q-4">Vídeo 029</a>: Introdução a OO </li>
+  <li><a href="https://youtu.be/xJXpwKBrPlc">Vídeo 030</a>: Introdução a OO - Exercícios </li>
 </ul>
 
 <h2> Sobre </h2>
