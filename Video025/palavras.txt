@@ -1,5 +1,5 @@
 banana
-maçã
-uva
+melancia
 pera
-laranja
+manga
+abacate
