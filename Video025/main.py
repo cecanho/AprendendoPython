@@ -13,6 +13,9 @@ Em seguida, chame a função jogar() logo abaixo da definição da função no a
 
 import forca
 import adivinhacao
+import arquivo
+
+arquivo.abrir()
 
 print('*********************************')
 print('**********MENU DE JOGOS**********')
