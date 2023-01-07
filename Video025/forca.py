@@ -50,14 +50,15 @@ def imprime_mensagem_abertura():
     print('****************************************************')
 
 def carrega_palavra_secreta():
-    arquivo = open('palavras.txt', 'r')
+#    arquivo = open('palavras.txt', 'r')
     palavras = []
 
-    for linha in arquivo:
-        linha = linha.strip()
-        palavras.append(linha)
+    with open('palavras.txt') as arquivo:
+        for linha in arquivo:
+            linha = linha.strip()
+            palavras.append(linha)
 
-    arquivo.close()
+#    arquivo.close()
 
     numero = random.randrange(0, len(palavras))
     palavra_secreta = palavras[numero].upper()
@@ -69,11 +70,37 @@ def inicializa_letras_acertadas(palavra):
 def pede_chute():
     chute = input('Qual a letra? ')
     chute = chute.strip().upper()
-    return  chute
+    return chute
 
 def imprimir_mensagem_vencedor():
     print('Você Ganhou!!!')
+    print("   ___________ ")
+    print("  '._==_==_=_.' ")
+    print("  .-\\:     /-. ")
+    print(" | (|:.    |) | ")
+    print("  '-|:.    |-' ")
+    print("    \\::.   / ")
+    print("     '::. .' ")
+    print("       ) ( ")
+    print("     _.' '._ ")
+    print("    '-------' ")
 
 def imprimir_mensagem_perdedor(palavra_secreta):
     print('Você Perdeu!!!')
     print('A palavra secreta era: {}'.format(palavra_secreta))
+    print("   _______________ ")
+    print("  /               \ ")
+    print(" /                 \ ")
+    print("//                  \/\ ")
+    print("\|    XXXX  XXXX    | / ")
+    print(" |    XXXX  XXXX    |/ ")
+    print(" |    XXX    XXX     | ")
+    print(" |                  | ")
+    print(" \__     XXX     __/ ")
+    print("   |\    XXX      /| ")
+    print("   | |           | | ")
+    print("   | I I I I I I I | ")
+    print("    | I I I I I I | ")
+    print("    \_           _/ ")
+    print("     \_         _/ ")
+    print("       \_______/ ")
