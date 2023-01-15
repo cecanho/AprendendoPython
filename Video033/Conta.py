@@ -1,5 +1,5 @@
 # Autor: Cristiano José Cecanho
-# Aprendendo Python: Vídeo 033
+# Aprendendo Python: Vídeo 033-034
 # Data: 14-01-2023
 # Objetivo: OO em Python
 
@@ -33,4 +33,12 @@ class Conta:
 
     def setLimite(self, limite):
         self.limite = limite
+
+    def transfere(self, destino, valor):
+        retirada = self.saca(valor)
+        if (retirada == False):
+            return False
+        else:
+            destino.deposita(valor)
+            return True
 
