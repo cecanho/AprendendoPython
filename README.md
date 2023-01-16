@@ -38,6 +38,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/xJXpwKBrPlc">Vídeo 030</a>: Introdução a OO - Exercícios </li>
   <li><a href="https://youtu.be/6nmonTiCRrA">Vídeo 031</a>: Um pouco de uso do Git no canal </li>
   <li><a href="https://youtu.be/pqL0H5Ob0Cw">Vídeo 032</a>: OO e Python </li>
+  <li><a href="https://youtu.be/BDRkwF-jibg">Vídeo 033</a>: Métodos OO em Python </li>
 </ul>
 
 <h2> Sobre </h2>
