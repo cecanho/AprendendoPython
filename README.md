@@ -39,6 +39,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/6nmonTiCRrA">Vídeo 031</a>: Um pouco de uso do Git no canal </li>
   <li><a href="https://youtu.be/pqL0H5Ob0Cw">Vídeo 032</a>: OO e Python </li>
   <li><a href="https://youtu.be/BDRkwF-jibg">Vídeo 033</a>: Métodos OO em Python </li>
+  <li><a href="https://youtu.be/ng378UUrblA">Vídeo 034</a>: Métodos transfere em Python </li>
 </ul>
 
 <h2> Sobre </h2>
