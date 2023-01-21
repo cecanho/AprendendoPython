@@ -1,12 +1,12 @@
 # Autor: Cristiano José Cecanho
-# Aprendendo Python: Vídeo 033-034
-# Data: 14-01-2023
+# Aprendendo Python: Vídeo 033-034-035
+# Data: 21-01-2023
 # Objetivo: OO em Python
 
 class Conta:
 # Construtor da classe
-    def __init__(self, titular, numero, saldo, limite):
-        self.titular = titular
+    def __init__(self, cliente, numero, saldo, limite=1000.0):
+        self.titular = cliente
         self.numero = numero
         self.saldo = saldo
         self.limite = limite
@@ -18,10 +18,11 @@ class Conta:
         if (self.limite + self.saldo >= valor):
             self.saldo -= valor
         else:
-            print(f"Saldo insuficiente para saque: {self.limite + self.saldo}")
+            print(f"Saldo insuficiente para saque/transferência: {self.limite + self.saldo}\n")
+            return False
 
     def extrato(self):
-        frase = f"{self.titular}\n" \
+        frase = f"{self.titular.nome}\n" \
                 f"Num.: {self.numero}\n" \
                 f"Saldo (a): {self.saldo}\n" \
                 f"Limite (b): {self.limite}\n" \
