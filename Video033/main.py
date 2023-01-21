@@ -1,19 +1,26 @@
 # Autor: Cristiano José Cecanho
-# Aprendendo Python: Vídeo 033-034-035
+# Aprendendo Python: Vídeo 033-034-035-036
 # Data: 21-01-2023
-# Objetivo: OO em Python - Métodos
+# Objetivo: OO em Python - Agregação
 
 from Conta import Conta
 from ClientePF import ClientePF
+from Endereco import Endereco
+
+ender1 = Endereco('n. 51',
+                    '',
+                    'Avenida Ulisses Guimarães',
+                    'Vila Indaiá',
+                    'Rio Claro',
+                    'SP',
+                    'Brasil',
+                    '13500-000')
 
 clienteNeymar = ClientePF('Neymar',
                           'Jr',
                           '123.456.789-10',
                           '12.345.678-8',
-                          'Avenida Ulisses Guimarães, '
-                          'n. 51, Vila do Horto, '
-                          'Rio Claro, São Paulo, Brasil, '
-                          '13.500-000',
+                          ender1,
                           '19-1234-6789',
                           '19-98765-4321',
                           '19-9876-5432')
@@ -27,6 +34,10 @@ print(type(cnt1))
 
 print()
 print(type(clienteNeymar))
+
+print()
+print(type(ender1))
+print(cnt1.titular.endereco.logradouro)
 
 
 '''
