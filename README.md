@@ -40,6 +40,8 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/pqL0H5Ob0Cw">Vídeo 032</a>: OO e Python </li>
   <li><a href="https://youtu.be/BDRkwF-jibg">Vídeo 033</a>: Métodos OO em Python </li>
   <li><a href="https://youtu.be/ng378UUrblA">Vídeo 034</a>: Métodos transfere em Python </li>
+  <li><a href="https://youtu.be/dqW2OoojcHc">Vídeo 035</a>: Agregação em Python </li>
+  <li><a href="https://youtu.be/OEsD3dvJpp4">Vídeo 036</a>: Resolução do exercício sobre agregação em Python </li>
 </ul>
 
 <h2> Sobre </h2>
