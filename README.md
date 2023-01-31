@@ -42,7 +42,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/ng378UUrblA">Vídeo 034</a>: Métodos transfere em Python </li>
   <li><a href="https://youtu.be/dqW2OoojcHc">Vídeo 035</a>: Agregação em Python </li>
   <li><a href="https://youtu.be/OEsD3dvJpp4">Vídeo 036</a>: Resolução do exercício sobre agregação em Python </li>
-  <li><a href="https://youtu.be/ckDUdbUb8_A">Vídeo 037</a>: Composição em Python </li>https://youtu.be/ckDUdbUb8_A
+  <li><a href="https://youtu.be/ckDUdbUb8_A">Vídeo 037</a>: Composição em Python </li>
   <li><a href="https://youtu.be/uu61mVdfaWs">Vídeo 038</a>: Resolução do exercício sobre OO em Python (pag. 107-109) </li>
 </ul>
 
