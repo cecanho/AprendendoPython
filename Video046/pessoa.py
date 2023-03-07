@@ -1,7 +1,7 @@
 # Autor: Cristiano José Cecanho
-# Aprendendo Python: Vídeo 046
-# Data: 26-02-2023
-# Objetivo: OO em Python - Herança
+# Aprendendo Python: Vídeo 047
+# Data: 04-03-2023
+# Objetivo: OO em Python - Reescrita e Métodos
 
 class Pessoa:
     def __init__(self, nome, endereco, cpf, telefone, celular, email):
