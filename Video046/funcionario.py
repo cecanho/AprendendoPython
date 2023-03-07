@@ -1,7 +1,7 @@
 # Autor: Cristiano José Cecanho
-# Aprendendo Python: Vídeo 046
-# Data: 26-02-2023
-# Objetivo: OO em Python - Herança
+# Aprendendo Python: Vídeo 047
+# Data: 04-03-2023
+# Objetivo: OO em Python - Reescrita e Métodos
 
 from pessoa import Pessoa
 
@@ -27,3 +27,6 @@ class Funcionario(Pessoa):
     @salario.setter
     def salario(self, salario):
         self._salario = salario
+
+    def get_bonificacao(self):
+        return self._salario * 0.10
