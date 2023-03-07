@@ -1,27 +1,43 @@
 # Autor: Cristiano José Cecanho
-# Aprendendo Python: Vídeo 046
-# Data: 26-02-2023
-# Objetivo: OO em Python - Herança
+# Aprendendo Python: Vídeo 047
+# Data: 04-03-2023
+# Objetivo: OO em Python - Reescrita e Métodos
 
 from gerente import Gerente
+from funcionario import Funcionario
 
-pessoa1 = Gerente('Cristiano',
+funcionario = Funcionario('José',
+                          'Avenida Ulisses Guimarães, n. 5, Vila Indaiá, Rio Claro - SP',
+                          '122.122.123-12',
+                          '19-1233-1234',
+                          '19-12335-1234',
+                          'ze_do@banco.com',
+                          'Gerente',
+                          2000.0
+                          )
+
+gerente = Gerente('Cristiano',
                  'Avenida Ulisses Guimarães, n. 1, Vila Indaiá, Rio Claro - SP',
                  '123.123.123-12',
                  '19-1234-1234',
                  '19-12345-1234',
                  'cristiano@banco.com',
                       'Gerente',
-                      13250.0,
+                      5000.0,
                   'cristiano',
                   '123456',
                   12)
 
-print(pessoa1.nome)
-print(pessoa1.funcao)
-print(pessoa1.salario)
-print(pessoa1.qtdFuncionarios)
-if(pessoa1.autentica('cristiano','123456')):
+print(gerente.nome)
+print(gerente.funcao)
+print(gerente.salario)
+print(gerente.qtdFuncionarios)
+if(gerente.autentica('cristiano','123456')):
     print(f"\nACESSO CONCEDIDO")
 else:
     print(f"\nACESSO NEGADO")
+
+print(gerente.get_bonificacao())
+
+print(vars(gerente))
+print(vars(funcionario))
