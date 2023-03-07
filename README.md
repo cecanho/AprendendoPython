@@ -52,6 +52,8 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/5hDToXxw_iQ">Vídeo 044</a>: Resolução de exercícios pag 123-125 - OO em Python </li>
   <li><a href="https://youtu.be/ApcbPCNFfik">Vídeo 045</a>: Resolução de exercício Banco - OO em Python </li>
   <li><a href="https://youtu.be/DOrN3NlkAQ8">Vídeo 045</a>: Herança - OO em Python </li>
+  <li><a href="https://youtu.be/FiC9qv1eriw">Vídeo 045</a>: Reescrita de métodos - OO em Python </li>
+  <li><a href="https://youtu.be/fR4rYJE_HKY">Vídeo 045</a>: Reescrita de métodos (continuação) - OO em Python </li>
 
 <h2> Sobre </h2>
 <p> Professor Cristiano José Cecanho é formado em Sistemas de Informação (2004) pelas faculdades Claretianas, especialista em Tecnologias e Educação a Distância, programador em linguagens como JAVA, PHP, PASCAL, C, C++, Android, com conhecimentos em SQL para bancos de dados como MySQL, MS SQL Server e Firebird.
