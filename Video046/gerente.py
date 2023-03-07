@@ -1,7 +1,7 @@
 # Autor: Cristiano José Cecanho
-# Aprendendo Python: Vídeo 046
-# Data: 26-02-2023
-# Objetivo: OO em Python - Herança
+# Aprendendo Python: Vídeo 047
+# Data: 04-03-2023
+# Objetivo: OO em Python - Reescrita e Métodos
 
 from funcionario import Funcionario
 
@@ -44,3 +44,6 @@ class Gerente(Funcionario):
             return True
         else:
             return False
+
+    def get_bonificacao(self):
+        return super().__init__() + 1000.0
