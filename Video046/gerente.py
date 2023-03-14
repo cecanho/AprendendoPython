@@ -1,7 +1,7 @@
 # Autor: Cristiano José Cecanho
-# Aprendendo Python: Vídeo 047
-# Data: 04-03-2023
-# Objetivo: OO em Python - Reescrita e Métodos
+# Aprendendo Python: Vídeo 049
+# Data: 11-03-2023
+# Objetivo: OO em Python - Polimorfismo
 
 from funcionario import Funcionario
 
@@ -46,4 +46,4 @@ class Gerente(Funcionario):
             return False
 
     def get_bonificacao(self):
-        return super().__init__() + 1000.0
+        return self._salario * 0.15

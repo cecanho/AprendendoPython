@@ -1,18 +1,19 @@
 # Autor: Cristiano José Cecanho
-# Aprendendo Python: Vídeo 047
-# Data: 04-03-2023
-# Objetivo: OO em Python - Reescrita e Métodos
-
+# Aprendendo Python: Vídeo 049
+# Data: 11-03-2023
+# Objetivo: OO em Python - Polimorfismo
+from Cliente import Cliente
 from gerente import Gerente
 from funcionario import Funcionario
+from ControleDeBonifcacoes import ControleDeBonificacoes
 
-funcionario = Funcionario('José',
+faxineiro = Funcionario('José',
                           'Avenida Ulisses Guimarães, n. 5, Vila Indaiá, Rio Claro - SP',
                           '122.122.123-12',
                           '19-1233-1234',
                           '19-12335-1234',
                           'ze_do@banco.com',
-                          'Gerente',
+                          'Faxineiro',
                           2000.0
                           )
 
@@ -28,7 +29,25 @@ gerente = Gerente('Cristiano',
                   '123456',
                   12)
 
-print(gerente.nome)
+cliente = Cliente('Manuel',
+                          'Avenida Ulisses Guimarães, n. 109, Vila Indaiá, Rio Claro - SP',
+                          '124.142.143-12',
+                          '19-1233-1434',
+                          '19-12335-1434',
+                          'manuel@banco.com',
+                          '111-1',
+                          '001'
+                          )
+
+controle = ControleDeBonificacoes()
+controle.registra(faxineiro)
+controle.registra(gerente)
+controle.registra(cliente)
+print(f"Bonificação Faxineiro: {faxineiro.get_bonificacao()}")
+print(f"Bonificação Gerente: {gerente.get_bonificacao()}")
+print(f"Total: {controle.total_bonificacoes}")
+
+'''print(gerente.nome)
 print(gerente.funcao)
 print(gerente.salario)
 print(gerente.qtdFuncionarios)
@@ -40,4 +59,4 @@ else:
 print(gerente.get_bonificacao())
 
 print(vars(gerente))
-print(vars(funcionario))
+print(vars(funcionario))'''

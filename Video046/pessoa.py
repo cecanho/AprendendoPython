@@ -1,7 +1,7 @@
 # Autor: Cristiano José Cecanho
-# Aprendendo Python: Vídeo 047
-# Data: 04-03-2023
-# Objetivo: OO em Python - Reescrita e Métodos
+# Aprendendo Python: Vídeo 049
+# Data: 11-03-2023
+# Objetivo: OO em Python - Polimorfismo
 
 class Pessoa:
     def __init__(self, nome, endereco, cpf, telefone, celular, email):
