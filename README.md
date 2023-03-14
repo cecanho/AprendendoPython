@@ -54,6 +54,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/DOrN3NlkAQ8">Vídeo 046</a>: Herança - OO em Python </li>
   <li><a href="https://youtu.be/FiC9qv1eriw">Vídeo 047</a>: Reescrita de métodos - OO em Python </li>
   <li><a href="https://youtu.be/fR4rYJE_HKY">Vídeo 048</a>: Reescrita de métodos (continuação) - OO em Python </li>
+  <li><a href="https://youtu.be/D4_bc8_LkYw">Vídeo 049</a>: Polimorfismo - OO em Python </li>
 
 <h2> Sobre </h2>
 <p> Professor Cristiano José Cecanho é formado em Sistemas de Informação (2004) pelas faculdades Claretianas, especialista em Tecnologias e Educação a Distância, programador em linguagens como JAVA, PHP, PASCAL, C, C++, Android, com conhecimentos em SQL para bancos de dados como MySQL, MS SQL Server e Firebird.
