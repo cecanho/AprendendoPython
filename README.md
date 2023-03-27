@@ -58,7 +58,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/DHQS4G3nU3g">Vídeo 050</a>: Duck Typing - OO em Python </li>
   <li><a href="https://youtu.be/1_hvR-mxRkM">Vídeo 051</a>: Resolução dos exercícios - pag 150 - reescrita de métodos e polimorfismo (parte 1) - OO em Python </li>
   <li><a href="https://youtu.be/b9sLSk9clus">Vídeo 052</a>: Resolução dos exercícios - pag 150 - reescrita de métodos e polimorfismo (parte 2) - OO em Python </li>
-  <li><a href="">Vídeo 053</a>: ABC (Abstract Base Classes / Classes Abstratas) - OO em Python </li>
+  <li><a href="https://youtu.be/UUF7Q7Yh8BM">Vídeo 053</a>: ABC (Abstract Base Classes / Classes Abstratas) - OO em Python </li>
   <li><a href="">Vídeo 054</a>: Exercícios ABC (pag. 156/163) - OO em Python </li>
 
 <h2> Sobre </h2>
