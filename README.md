@@ -59,7 +59,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/1_hvR-mxRkM">Vídeo 051</a>: Resolução dos exercícios - pag 150 - reescrita de métodos e polimorfismo (parte 1) - OO em Python </li>
   <li><a href="https://youtu.be/b9sLSk9clus">Vídeo 052</a>: Resolução dos exercícios - pag 150 - reescrita de métodos e polimorfismo (parte 2) - OO em Python </li>
   <li><a href="https://youtu.be/UUF7Q7Yh8BM">Vídeo 053</a>: ABC (Abstract Base Classes / Classes Abstratas) - OO em Python </li>
-  <li><a href="">Vídeo 054</a>: Exercícios ABC (pag. 156/163) - OO em Python </li>
+  <li><a href="https://youtu.be/lj_BP38nn9s">Vídeo 054</a>: Exercícios ABC (pag. 156/163) - OO em Python </li>
 
 <h2> Sobre </h2>
 <p> Professor Cristiano José Cecanho é formado em Sistemas de Informação (2004) pelas faculdades Claretianas, especialista em Tecnologias e Educação a Distância, programador em linguagens como JAVA, PHP, PASCAL, C, C++, Android, com conhecimentos em SQL para bancos de dados como MySQL, MS SQL Server e Firebird.
