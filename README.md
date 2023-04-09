@@ -62,7 +62,8 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/lj_BP38nn9s">Vídeo 054</a>: Exercícios ABC (pag. 156/163) - OO em Python </li>
   <li><a href="https://youtu.be/J7sSSrEo-98">Vídeo 055</a>: Herança Múltipla e Interface - OO em Python </li>
   <li><a href="https://youtu.be/q4ASU0A3yFM">Vídeo 056</a>: Problema do diamante/losango - OO em Python </li>
-
+  <li><a href="https://youtu.be/UHtlyMROoNw">Vídeo 057</a>: MixIn - OO em Python </li>
+  <li><a href="https://youtu.be/sHnV1Mac1II">Vídeo 058</a>: Resolução exercício MixIn - OO em Python </li>
 <h2> Sobre </h2>
 <p> Professor Cristiano José Cecanho é formado em Sistemas de Informação (2004) pelas faculdades Claretianas, especialista em Tecnologias e Educação a Distância, programador em linguagens como JAVA, PHP, PASCAL, C, C++, Android, com conhecimentos em SQL para bancos de dados como MySQL, MS SQL Server e Firebird.
 
