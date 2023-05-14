@@ -72,6 +72,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/u1LJh4mk8Gw">Vídeo 064</a>: Collections - OO em Python </li>
   <li><a href="https://youtu.be/XIRQSmd_NrY">Vídeo 065</a>: Collections: Container - OO em Python </li>
   <li><a href="https://youtu.be/R3SwN1_PJzM">Vídeo 066</a>: Collections: Container - Sized </li>
+  <li><a href="">Vídeo 066</a>: Collections: Iterable e MultipleSequence </li>
 <h2> Sobre </h2>
 <p> Professor Cristiano José Cecanho é formado em Sistemas de Informação (2004) pelas faculdades Claretianas, especialista em Tecnologias e Educação a Distância, programador em linguagens como JAVA, PHP, PASCAL, C, C++, Android, com conhecimentos em SQL para bancos de dados como MySQL, MS SQL Server e Firebird.
 
