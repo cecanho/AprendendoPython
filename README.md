@@ -76,6 +76,7 @@ Repositório dedicado aos vídeos do meu canal do Youtube para aprendizagem da l
   <li><a href="https://youtu.be/4auDl7aSv_w">Vídeo 068</a>: Collections: Exercícios </li>
   <li><a href="https://youtu.be/5W6fmZ_V51E">Vídeo 069</a>: Collections: Exercício 13 </li>
   <li><a href="https://youtu.be/h9aOhG9uKg8">Vídeo 070</a>: Último vídeo da apostila </li>
+  <li><a href="https://youtu.be/CQ_x_RihvgQ">Vídeo 071</a>: Respondendo aos comentários </li>
 <h2> Sobre </h2>
 <p> Professor Cristiano José Cecanho é formado em Sistemas de Informação (2004) pelas faculdades Claretianas, especialista em Tecnologias e Educação a Distância, programador em linguagens como JAVA, PHP, PASCAL, C, C++, Android, com conhecimentos em SQL para bancos de dados como MySQL, MS SQL Server e Firebird.
 
